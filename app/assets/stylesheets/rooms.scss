@@ -275,7 +275,7 @@ main {
   border-radius: 0.2rem;
   width: 36px;
   height: 36px;
-  background-image: url(http://findicons.com/icon/download/102283/fh02/300/png);
+  background-image: image-url("image1.png");
   background-size: cover;
 }
 
@@ -328,7 +328,7 @@ main {
   border-radius: 0.2rem;
   width: 48px;
   height: 48px;
-  background-image: url(http://findicons.com/icon/download/102283/fh02/300/png);
+  background-image: image-url("image1.png");
   background-size: cover;
   margin-right: 8px;
 }
