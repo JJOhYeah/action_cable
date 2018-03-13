@@ -5,6 +5,7 @@
 //= require_self
 //= require_tree ./channels
 
+// This enables action cable on the front end
 (function() {
   this.App || (this.App = {});
 
